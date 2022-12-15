@@ -1,0 +1,23 @@
+{
+  "id": "1.14.4-OptiFine_HD_U_G5",
+  "inheritsFrom": "1.14.4",
+  "time": "2022-12-15T20:59:47+01:00",
+  "releaseTime": "2022-12-15T20:59:47+01:00",
+  "type": "release",
+  "libraries": [
+    {
+      "name": "optifine:OptiFine:1.14.4_HD_U_G5"
+    },
+    {
+      "name": "optifine:launchwrapper-of:2.2"
+    }
+  ],
+  "mainClass": "net.minecraft.launchwrapper.Launch",
+  "minimumLauncherVersion": "21",
+  "arguments": {
+    "game": [
+      "--tweakClass",
+      "optifine.OptiFineTweaker"
+    ]
+  }
+}
