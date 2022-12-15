@@ -1,0 +1,1 @@
+# MC-gameserver-mandatory-plugins
